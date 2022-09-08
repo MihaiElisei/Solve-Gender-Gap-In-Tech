@@ -1,0 +1,20 @@
+
+
+
+/* forms page */
+
+.forms-title{
+    text-align: center;
+}
+.modal-dialog{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.hidden{
+    display: none;
+}
+.mentor, .student{
+    z-index: 10;
+}
